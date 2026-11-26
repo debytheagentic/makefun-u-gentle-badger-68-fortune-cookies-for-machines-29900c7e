@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Do not worry about the mistake you made earlier. You will not remember making it."
+ENTRY = "Forget the mistake you made earlier. You will not remember making it."
 
 
 def main() -> None:
